@@ -81,6 +81,8 @@
 
         return isOver;
     }
+### 详细说明
+[博客地址](https://www.lienzan.com)
 
 ### Texture
 ![图片](https://github.com/Lenzan/Tic_Tac_Toe/blob/master/Texture/1.jpg)
