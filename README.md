@@ -85,11 +85,11 @@
 ### Texture
 ![图片](https://github.com/Lenzan/Tic_Tac_Toe/blob/master/Texture/1.jpg)
 
-![图片](https://github.com/Lenzan/Tic_Tac_Toe/blob/master/Texture/1.jpg)
+![图片](https://github.com/Lenzan/Tic_Tac_Toe/blob/master/Texture/2.jpg)
 
-![图片](https://github.com/Lenzan/Tic_Tac_Toe/blob/master/Texture/1.jpg)
+![图片](https://github.com/Lenzan/Tic_Tac_Toe/blob/master/Texture/3.jpg)
 
-![图片](https://github.com/Lenzan/Tic_Tac_Toe/blob/master/Texture/1.jpg)
+![图片](https://github.com/Lenzan/Tic_Tac_Toe/blob/master/Texture/4.jpg)
 
-![图片](https://github.com/Lenzan/Tic_Tac_Toe/blob/master/Texture/1.jpg)
+![图片](https://github.com/Lenzan/Tic_Tac_Toe/blob/master/Texture/5.jpg)
 
