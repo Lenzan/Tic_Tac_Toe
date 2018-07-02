@@ -82,3 +82,14 @@
         return isOver;
     }
 
+### Texture
+![图片](https://github.com/Lenzan/Tic_Tac_Toe/blob/master/Texture/1.jpg)
+
+![图片](https://github.com/Lenzan/Tic_Tac_Toe/blob/master/Texture/1.jpg)
+
+![图片](https://github.com/Lenzan/Tic_Tac_Toe/blob/master/Texture/1.jpg)
+
+![图片](https://github.com/Lenzan/Tic_Tac_Toe/blob/master/Texture/1.jpg)
+
+![图片](https://github.com/Lenzan/Tic_Tac_Toe/blob/master/Texture/1.jpg)
+
